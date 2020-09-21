@@ -1,4 +1,4 @@
-# Playground 4 ERIK
+# Playground for Hayoun
 
 A place to play with `git`.
 
